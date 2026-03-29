@@ -1,4 +1,7 @@
-## Hi there 👋
+ Hi there I'm Naman
+ Branch- Computer science 
+ Year- 2025
+ I hopw to gain strong problem-solving skills and become confident in building real-world projects using modern technoligies.
 
 <!--
 **naman25bce10255-lab/naman25bce10255-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
